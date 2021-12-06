@@ -1,0 +1,15 @@
+
+VanillaVAE/version_0/
+
+__pycache__/
+.ipynb_checkpoints/
+data/*
+
+Run.ipynb
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vae.iml
+/.idea/vcs.xml
+/.idea
