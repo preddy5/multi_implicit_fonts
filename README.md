@@ -17,7 +17,7 @@ You can find example data with corners here:
 
 `https://geometry.cs.ucl.ac.uk/projects/2021/multi_implicit_fonts/paper_docs/renders_3c.zip`
 
-*Note the project is done as a part of a research internship and I do not have access to the data anymore, so you'll have to generate the data yourself for future experiment. I apologize for the inconvience.*
+*Note the project is done as a part of a research internship so I do not have access to the data anymore, you'll have to generate the data yourself for future experiment. I apologize for the inconvience.*
 
 # Training
 
