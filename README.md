@@ -43,6 +43,5 @@ title={A Multi-Implicit Neural Representation for Fonts},
 author={Reddy, Pradyumna and Zhang, Zhifei and Fisher, Matthew and Jin, Hailin and Wang, Zhaowen and Mitra, Niloy J},
 journal={arXiv preprint arXiv:2106.06866},
 year={2021}
-}
-			
+}			
 ```
