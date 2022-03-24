@@ -34,6 +34,7 @@ CUDA_VISIBLE_DEVICES=0 python run.py --config family_w_local --version 43 --loca
 
 # Inference
 Use local_eval python notebook in the logs folder to generate beautiful results.
+
 *replace corner_templates modules name with implicit_fonts*
 
 ## Citation
