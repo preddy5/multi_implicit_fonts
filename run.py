@@ -75,7 +75,7 @@ for i_epoch in range(init_epoch, epochs):
         idx, coords, gt_image, corner_mask, gt_render, glyph_idx = [i.to(device) for i in sample_batched]
 
         [model_output_global, output_coords], label_embed = implicit_global([idx, glyph_idx, coords])
-        model_output_global = F.sigmoid(model_output_global) * 2 - 1 # I know I can use tan here stop judging my code
+        model_output_global = F.tanh(model_output_global)
 
         if init_training>0:
             alias_warmup = 1 - ((1-4/(img_size))*i_epoch)/10
